@@ -1,38 +1,43 @@
-Este es el código fuente de una página web simple que muestra un mensaje de "NOT FOUND" (No encontrado). La página está diseñada utilizando HTML y CSS.
+# Pagin NotFound
 
-Requisitos
-Navegador web moderno.
-Instrucciones de uso
-Clona o descarga este repositorio en tu máquina local.
+## Table of contents 📄
+- [Overview](#overview)
+  - [Installation](#Installation)  
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Authors](#authors)
 
-Abre el archivo index.html en tu navegador web.
+## Overview :writing_hand:
 
-Construido con:
+This is the source code of a simple web page that displays a "NOT FOUND" message. The page is designed using HTML and CSS.
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+### Installation :gear:
+To get started with the project, follow these steps:
 
-Estructura del proyecto
-El proyecto consta de los siguientes archivos:
+1. Clone the repository:
+```shell
+git clone https://github.com/r0odr1/NotFound.git
+  ```
+Or to open the index.html file in your web browser, follow these steps:
 
-index.html: Es el archivo principal que contiene la estructura del documento HTML.
+1. Locate the index.html file on your local machine.
+2. Right-click on the index.html file.
+3. Choose "Open With" from the context menu.
+4. Select your preferred web browser from the list.
 
-style.css: Es el archivo CSS que define los estilos para la página.
+Alternatively, you can simply double-click on the index.html file, and it should open in your default web browser.
 
-Carpeta assets: Contiene la imagen utilizada en la página.
+### Screenshot 📷
 
-Personalización
-Si deseas personalizar la página, puedes seguir estos pasos:
+## My Process 🏗️
+### Built with 🛠️
 
-Edita el archivo index.html para modificar el contenido y la estructura de la página según tus necesidades.
+* Semantic HTML5 markup
+* CSS custom properties
+* Flexbox
+* Mobile-first workflow
 
-Modifica el archivo style.css para cambiar los estilos de la página, como colores, fuentes, márgenes, etc.
+## Authors 👊
 
-Si deseas utilizar una imagen diferente, reemplaza el archivo scarecrow.png en la carpeta assets por la imagen de tu elección y actualiza la ruta de la imagen en el archivo index.html.
-
-Créditos
-La fuente utilizada en la página es "Space Mono" de Google Fonts.
-Licencia
-Este proyecto se distribuye bajo la licencia MIT.
+This project was created by [r0odr1](https://github.com/r0odr1).
