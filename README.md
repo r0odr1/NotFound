@@ -1,8 +1,9 @@
 # Pagin NotFound
 
 ## Table of contents 📄
+
 - [Overview](#overview)
-  - [Installation](#Installation)  
+  - [Installation](#Installation)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -13,12 +14,15 @@
 This is the source code of a simple web page that displays a "NOT FOUND" message. The page is designed using HTML and CSS.
 
 ### Installation :gear:
+
 To get started with the project, follow these steps:
 
 1. Clone the repository:
+
 ```shell
 git clone https://github.com/r0odr1/NotFound.git
-  ```
+```
+
 Or to open the index.html file in your web browser, follow these steps:
 
 1. Locate the index.html file on your local machine.
@@ -31,12 +35,13 @@ Alternatively, you can simply double-click on the index.html file, and it should
 ### Screenshot 📷
 
 ## My Process 🏗️
+
 ### Built with 🛠️
 
-* Semantic HTML5 markup
-* CSS custom properties
-* Flexbox
-* Mobile-first workflow
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
 ## Authors 👊
 

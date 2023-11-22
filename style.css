@@ -1,4 +1,5 @@
 * {
+  width: 100%;
   font-size: 24px;
   font-family: Space Mono;
   font-weight: 500px;
@@ -17,6 +18,8 @@
 
 .imagen {
   margin-top: 50px;
+  width: 35%;
+  height: 10%;
 }
 
 .content-message {
