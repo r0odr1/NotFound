@@ -34,6 +34,12 @@ Alternatively, you can simply double-click on the index.html file, and it should
 
 ### Screenshot 📷
 
+![image](https://github.com/r0odr1/NotFound/assets/126527883/e480048a-b942-4872-93f9-4e6e583b98c4)
+
+
+![image](https://github.com/r0odr1/NotFound/assets/126527883/27364148-b962-4a11-84a1-e6007fdc4580)
+
+
 ## My Process 🏗️
 
 ### Built with 🛠️
